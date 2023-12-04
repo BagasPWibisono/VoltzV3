@@ -139,6 +139,9 @@ scripts/
 src/commands/anime/
 src/commands/fun/
 src/commands/information/
+src/commands/economy/
+src/commands/giveaways/
+src/commands/invites/
 src/database/
 src/handlers/
 src/helpers/
