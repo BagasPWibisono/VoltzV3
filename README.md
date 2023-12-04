@@ -3,11 +3,11 @@
   <br>
   <a href="http://www.voltac.dev/voltz"><img src="https://cdn.discordapp.com/avatars/1073529593371308052/29120dcc29d0bb4065f5a1c194deb2c3.png?size=512" alt="Markdownify" width="200"></a>
   <br>
-  Voltz Discord Bot
+  VOLTZ
   <br>
 </h1>
 
-<h4 align="center">Discord Music Bot<a href="http://voltac.dev" target="_blank"> Voltz</a>.</h4>
+<h4 align="center">Discord Personal<a href="http://voltac.dev" target="_blank"> @Voltac</a>.</h4>
 
 
 ## Fitur Bot
