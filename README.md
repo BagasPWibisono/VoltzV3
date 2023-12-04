@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">Discord Music Bot<a href="http://voltac.dev" target="_blank">Voltz</a>.</h4>
+<h4 align="center">Discord Music Bot<a href="http://voltac.dev" target="_blank"> Voltz</a>.</h4>
 
 
 ## Fitur Bot
