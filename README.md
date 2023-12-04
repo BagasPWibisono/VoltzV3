@@ -31,9 +31,9 @@
 
 
 > **Prasyarat**
-> [Node.js](https://nodejs.org/en/) v16.11.0 or higher
-> [Git](https://git-scm.com/downloads)
-> [MongoDB](https://www.mongodb.com)
+- [Node.js](https://nodejs.org/en/) v16.11.0 or higher
+- [Git](https://git-scm.com/downloads)
+- [MongoDB](https://www.mongodb.com)
 
 ## Credits
 
