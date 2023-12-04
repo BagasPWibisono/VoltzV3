@@ -139,7 +139,6 @@ scripts/
 src/commands/anime/
 src/commands/fun/
 src/commands/information/
-src/commands/utility/
 src/database/
 src/handlers/
 src/helpers/
