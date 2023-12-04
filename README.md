@@ -30,14 +30,14 @@
   - Perintah bot lainya seperti cuaca, kamus urban, pokedex, translate Dll
 
 
-> **Prerequisites**
+> **Prasyarat**
 > [Node.js](https://nodejs.org/en/) v16.11.0 or higher
 > [Git](https://git-scm.com/downloads)
 > [MongoDB](https://www.mongodb.com)
 
 ## Credits
 
-This software uses the following open source packages:
+Aplikasi Bot ini menggunakan paket sumber terbuka berikut:
 
 - [Node.js](https://nodejs.org/)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
@@ -52,5 +52,5 @@ MIT
 ---
 
 > GitHub [@voltac](https://github.com/BagasPWibisono/) &nbsp;&middot;&nbsp;
-> GitHub [@saiteja-madha](https://github.com/saiteja-madha/) &nbsp;&middot;&nbsp;
+> GitHub(Original Author) [@saiteja-madha](https://github.com/saiteja-madha/) &nbsp;&middot;&nbsp;
 
