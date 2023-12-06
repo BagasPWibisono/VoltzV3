@@ -14,7 +14,7 @@ const { validateConfiguration } = require("@helpers/Validator");
 validateConfiguration();
 
 // initialize client wULYgWLkZHeknzuu
-const client = new BotClient();
+const client = new BotClient(); 
 client.loadCommands("src/commands");
 client.loadContexts("src/contexts");
 client.loadEvents("src/events");
@@ -26,7 +26,7 @@ process.on("unhandledRejection", (err) => client.logger.error(`Unhandled excepti
   // check for updates
   await checkForUpdates();
 
-  // start the dashboard
+  // start the dashboards
   if (client.config.DASHBOARD.enabled) {
     client.logger.log("Launching dashboard");
     try {
